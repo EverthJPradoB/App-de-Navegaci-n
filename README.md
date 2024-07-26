@@ -3,7 +3,6 @@
 Una aplicación de navegación simple construida con Jetpack Compose y Navigation Component en Kotlin.
 
 ## Características
-https://github.com/user-attachments/assets/dea9f1c5-2071-41b5-82e2-b68f958344e3
 - Navegación entre pantallas usando Jetpack Compose.
 - Botón de retroceso personalizado.
 - Uso de íconos AutoMirrored para soporte de RTL (Right-To-Left).
